@@ -266,7 +266,7 @@ function handleLoadExample(): void {
 title: Maßnahmen zur Bewältigung der Sicherheitslage in der Sahelzone und zur Förderung einer nachhaltigen Friedenskonsolidierung in der Region
 Datum: 2024-11-20
 Lander: Algerien, Ecuador, Guyana, Japan, Malta, Mosambik, Republik Korea, Schweiz, Sierra Leone, Slowenien
-Ausschuss: WUT
+Ausschuss: SR
 Typ: Resolutionsentwurf
 ---
 **unter Hinweis** auf seine früheren Resolutionen zur Lage in der Sahelzone, insbesondere die Resolutionen 2391 (2017), 2480 (2019) und 2531 (2020),
