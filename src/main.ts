@@ -160,7 +160,7 @@ async function handleLivePreviewUpdate(): Promise<void> {
     );
     // 2. Wandle es für die Vorschau in einen Data-URI um
     const pdfDataUri = pdfDoc.output("datauristring");
-
+    console.log(pdfDataUri);
     previewContainer.innerHTML = `
       <iframe 
         src="${pdfDataUri}" 
