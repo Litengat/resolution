@@ -57,8 +57,8 @@ Der UN Resolution Generator erstellt aus einem Text eine PDF im Stil einer offiz
 
 ## 3. Funktionen im Überblick
 
-- **Live Vorschau:** Aktivieren/deaktivieren Sie die Vorschau mit dem Häkchen. Sie sehen sofort, wie das PDF aussieht.
-- **PDF Herunterladen:** Mit einem Klick auf "PDF Herunterladen" speichern Sie das fertige Dokument.
+- **Live Vorschau:** Aktiviere/deaktiviere die Vorschau mit dem Häkchen.
+- **PDF Herunterladen:** Mit einem Klick auf "PDF Herunterladen" speichert man das fertige Dokument.
 - **Datei Laden:** Laden Sie Ihre eigene .md-Datei hoch, um den Text zu übernehmen.
 - **Beispiel Laden:** Starten Sie mit einem Beispieltext, um die Funktionsweise kennenzulernen.
 
@@ -67,5 +67,3 @@ Der UN Resolution Generator erstellt aus einem Text eine PDF im Stil einer offiz
 - Achten Sie auf die drei Bindestriche für die Kopfzeilen.
 - Verwenden Sie das Datum im Format JJJJ-MM-TT.
 - Nutzen Sie klare Überschriften und Aufzählungen.
-
-Das war’s! Mit diesen einfachen Schritten erstellen Sie schnell und unkompliziert Ihre eigene UN-Resolution im PDF-Format.
